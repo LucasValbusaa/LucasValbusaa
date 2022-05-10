@@ -1,17 +1,15 @@
-### Hi there my name is Lucas, I am a fullstack programmer who is currently learning.I currently work as an intern 👋
+# Lucas Valbusa
 
-- 🔭 I’m currently working on ... FullStack
-- 🌱 I’m currently learning ... NodeJS
-- 👯 I’m looking to collaborate on ... Anything
-- 🤔 I’m looking for help with ... Improve my knowledge
-- ⚡ Fun fact: ... I love playing video games
+Developer Web FullStack @Hemoce.
 
-### Languages and Tools:
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+### Nodejs | Typescript | VueJS
+
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Valbusa-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-valbusa/)](https://www.linkedin.com/in/lucas-valbusa/) 
+[![Gmail Badge](https://img.shields.io/badge/-lucasvalbusagit@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasvalbusagit@gmail.com)](mailto:lucasvalbusagit@gmail.com)
+
+I'm a developer enthusiastic about studying new technologies to broaden my range of knowledge.
+
+Currently learning more about clean architecture, SOLID and TDD with NestJS.
+
+In addition to studying GoLang to develop a connection between microservices using gRPC.
+
