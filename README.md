@@ -13,3 +13,5 @@ Currently learning more about clean architecture, SOLID and TDD with NestJS.
 
 In addition to studying GoLang to develop a connection between microservices using gRPC.
 
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasValbusaa&show_icons=false&include_all_commits=true&theme=dark&hide_border=true&count_private=true&hide=prs,issues" alt="Lucas github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasValbusaa&layout=compact&theme=dark&hide_border=true&langs_count=20" /></a> |
+| ------------- | ------------- |
