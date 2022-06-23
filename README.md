@@ -1,6 +1,6 @@
 # Lucas Valbusa
 
-Developer Web FullStack @Hemoce.
+Developer Web FullStack.
 
 ### NodeJS | NestJS | Typescript | VueJS | GoLang
 
