@@ -1,6 +1,6 @@
 # Lucas Valbusa
 
-## Developer Web FullStack.
+## Developer FullStack.
 
 ### NodeJS | Typescript | NestJS | VueJS | React
 
