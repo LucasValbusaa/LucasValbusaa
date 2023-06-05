@@ -10,5 +10,5 @@
 Desenvolvedor Back End com 3 anos de experiência em Node.js, JavaScript, TypeScript e Nestjs. 
 Possuo vasto conhecimento no desenvolvimento de sistemas web em ambientes AWS, Google Cloud e Kubernets, seguindo a arquitetura de micro serviços e utilizando testes automatizado
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasValbusaa&layout=compact&theme=dark&hide_border=true&langs_count=20" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasValbusaa&layout=compact&theme=dark&hide_border=true&langs_count=20" /></a>
+
